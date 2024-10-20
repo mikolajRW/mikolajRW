@@ -4,7 +4,7 @@
 - The potential for data to drive meaningful change in various industries is what captivates me the most
 - 🌱 I’m currently deepening my knowledge of NoSQL databases, including technologies like Redis and Hadoop/Hive. I am taking my first steps in the Java framework Spring Boot. 
 - 💞️ My long-term goal is to apply my technical knowledge to positively impact the bussines or political landscape, especially in areas such as data-driven decision-making and innovation.
-- 📫 How to reach me https://www.linkedin.com/in/mikołaj-robert-wozniak/
+- 📫 How to reach me https://www.linkedin.com/in/mikołaj-robert-wozniak/ and link to my RPubs: https://rpubs.com/MikolajW
 
 
 <!---
